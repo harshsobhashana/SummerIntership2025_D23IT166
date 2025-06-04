@@ -13,7 +13,7 @@
 
 ### Week 1
 
-#### ✅ Day 1 – June 3, 2025
+#### ✅ Day 1 – June 2, 2025
 - Started internship orientation and initial setup.
 - Mentor instructed to strengthen fundamentals of HTML, CSS, and Bootstrap.
 - Focused on:
@@ -22,7 +22,7 @@
   - Bootstrap grid system, responsive design, and utility classes
 - Revisited W3Schools and Bootstrap documentation for hands-on practice.
 
-#### ✅ Day 2 – June 2, 2025
+#### ✅ Day 2 – June 3, 2025
 - Continued learning phase as guided by mentor.
 - Watched JavaScript tutorials on YouTube to understand core concepts.
 - Topics covered:
@@ -31,7 +31,7 @@
   - Functions and control structures (if/else, loops)
 - Practiced writing basic JavaScript programs in the browser console and VS Code.
 
-#### ✅ Day 3 – June 3, 2025
+#### ✅ Day 3 – June 4, 2025
 - Mentor provided a UI design created in **Figma**.
 - Task assigned: Recreate the given design **pixel-perfect** using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**.
 - Steps taken:
