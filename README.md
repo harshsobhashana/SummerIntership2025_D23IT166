@@ -58,3 +58,28 @@
 - Discussed naming conventions and best practices for class and ID usage.
 - Received feedback on improving readability and maintainability.
 - Afternoon task: Watched recommended videos to gain deeper understanding of **web development fundamentals** and **best practices**.
+
+#### ✅ Day 7 – June 7, 2025 and ✅ Day 8 – June 8, 2025
+- have holiday on due to Saturday and Sunday
+
+### Week 2
+
+#### ✅ Day 9 – June 9, 2025 to June 15, 2025
+- 🛌 Was on medical leave due to an **emergency stone operation**.
+- Could not inform in advance, but updated my mentor via phone call.
+- Took rest during the recovery period as advised by the doctor.
+- Resumed internship tasks from **June 17, 2025** onward.
+
+### Week 3
+
+#### ✅ Day 17 – June 17, 2025
+- Started learning **React.js** and set up the development environment.
+- Learned how to integrate **Bootstrap** into a React project for UI styling.
+- Explored core React concepts:
+  - **Props** and **PropTypes** for component communication
+  - **State** management and **event handling** within components
+- Built mini React applications:
+  - 🧮 **Calculator** using component-based logic
+  - 🔤 **Text converter** that transforms input to lowercase and uppercase using props and state
+
+
