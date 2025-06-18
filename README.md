@@ -83,3 +83,12 @@
   - 🔤 **Text converter** that transforms input to lowercase and uppercase using props and state
 
 
+#### ✅ Day 18 – June 18, 2025
+- Implemented **dark mode** toggle for better user experience.
+- Refactored React app components to improve **structure** and **reusability**.
+- Added features to:
+  - Dynamically update the **page title**
+  - Include **favicons** for branding
+- Set up **React Router** for navigation between components/pages.
+- Explored and practiced **class-based components** in React.
+- Started working on a **new application** utilizing these features — currently in progress.
