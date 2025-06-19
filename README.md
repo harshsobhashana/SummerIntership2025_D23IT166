@@ -92,3 +92,15 @@
 - Set up **React Router** for navigation between components/pages.
 - Explored and practiced **class-based components** in React.
 - Started working on a **new application** utilizing these features — currently in progress.
+
+#### ✅ Day 19 – June 19, 2025
+- Learned how to **fetch data from an external API** (News API) using React.
+- Practiced **state management** in **class-based components**.
+- Implemented additional features:
+  - **Loading spinner** for better UX during data fetch
+  - **Dynamic page size** control for flexible pagination
+- Got an introduction to **Redux** for managing complex application state.
+- Developed the **NewsMonkey App** that:
+  - Fetches and displays categorized news from the API
+  - Uses routing, state handling, and reusable components
+
