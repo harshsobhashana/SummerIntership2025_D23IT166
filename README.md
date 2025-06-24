@@ -104,7 +104,7 @@
   - Fetches and displays categorized news from the API
   - Uses routing, state handling, and reusable components
 
-#### ✅ Day 1 – June 20, 2025
+#### ✅ Day 19 – June 20, 2025
 -Get Started with ReduxTool-kit 
 -What is Store
 -what is reducer
