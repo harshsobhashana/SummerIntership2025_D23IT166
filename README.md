@@ -64,7 +64,7 @@
 
 ### Week 2
 
-#### ✅ Day 9 – June 9, 2025 to June 15, 2025
+#### ✅ Day 8 – June 9, 2025 to June 15, 2025
 - 🛌 Was on medical leave due to an **emergency stone operation**.
 - Could not inform in advance, but updated my mentor via phone call.
 - Took rest during the recovery period as advised by the doctor.
