@@ -41,7 +41,7 @@
   - Began writing JavaScript for basic interactivity (e.g., button clicks, form behavior).
 - Gained hands-on experience in converting UI designs to real web pages.
 
-#### ✅ Day 5 – June 5, 2025
+#### ✅ Day 4 – June 5, 2025
 - Changed the color of the calendar icon to match the theme.
 - Adjusted button sizes for consistent UI across devices.
 - Refactored project structure by separating **HTML**, **CSS**, and **JavaScript** into individual files.
@@ -49,7 +49,7 @@
 - Enhanced functionality of the **date and time picker** for smoother user interaction.
 - ✅ **Completed the full website design** based on the provided Figma prototype.
 
-#### ✅ Day 6 – June 6, 2025
+#### ✅ Day 5 – June 6, 2025
 - Mentor conducted a **code review session** for the website I developed.
 - Explained the entire code structure, including:
   - HTML layout and semantic structure
@@ -59,7 +59,7 @@
 - Received feedback on improving readability and maintainability.
 - Afternoon task: Watched recommended videos to gain deeper understanding of **web development fundamentals** and **best practices**.
 
-#### ✅ Day 7 – June 7, 2025 and ✅ Day 8 – June 8, 2025
+#### ✅ Day 6 – June 7, 2025 and ✅ Day 7 – June 8, 2025
 - have holiday on due to Saturday and Sunday
 
 ### Week 2
@@ -72,7 +72,7 @@
 
 ### Week 3
 
-#### ✅ Day 17 – June 17, 2025
+#### ✅ Day 16 – June 17, 2025
 - Started learning **React.js** and set up the development environment.
 - Learned how to integrate **Bootstrap** into a React project for UI styling.
 - Explored core React concepts:
@@ -83,7 +83,7 @@
   - 🔤 **Text converter** that transforms input to lowercase and uppercase using props and state
 
 
-#### ✅ Day 18 – June 18, 2025
+#### ✅ Day 17 – June 18, 2025
 - Implemented **dark mode** toggle for better user experience.
 - Refactored React app components to improve **structure** and **reusability**.
 - Added features to:
@@ -93,7 +93,7 @@
 - Explored and practiced **class-based components** in React.
 - Started working on a **new application** utilizing these features — currently in progress.
 
-#### ✅ Day 19 – June 19, 2025
+#### ✅ Day 18 – June 19, 2025
 - Learned how to **fetch data from an external API** (News API) using React.
 - Practiced **state management** in **class-based components**.
 - Implemented additional features:
@@ -104,3 +104,27 @@
   - Fetches and displays categorized news from the API
   - Uses routing, state handling, and reusable components
 
+#### ✅ Day 1 – June 20, 2025
+-Get Started with ReduxTool-kit 
+-What is Store
+-what is reducer
+-what is action 9
+-Developed the increment and decrement App using above Feature 
+
+#### ✅ Day 20 – June 21, 2025 and ✅ Day 21 – June 22, 2025
+- have holiday on due to Saturday and Sunday
+
+#### ✅ Day 22 – June 23, 2025
+- Cloned the **Bitsy CMS** project repository assigned by mentor.
+- Resolved dependency errors during initial setup.
+- Analyzed the overall **file structure** and explored how components and modules are organized.
+- 📌 Officially started working on the **live project** as guided by mentor.
+
+#### ✅ Day 23 – June 24, 2025
+- Continued working on the **Bitsy CMS** live project.
+- Task assigned: Implement the **Category Management** component.
+- Focused on:
+  - Displaying the **list of categories** using data from the backend.
+  - Understanding the structure of the category data and how it flows through the component.
+  - Rendering dynamic content using React’s `map()` method.
+- Received guidance from mentor on best practices for **component-based rendering** and **UI consistency**.
