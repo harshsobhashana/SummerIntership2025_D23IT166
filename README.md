@@ -152,3 +152,6 @@
   - **Cancel** button to dismiss the popup
   - **Logout** button to proceed with user logout
 - Added an **overlay effect** to dim the background until the user takes action on the popup.
+
+#### ✅ Day 27 – June 28, 2025 and ✅ Day 28 – June 29, 2025
+- have holiday on due to Saturday and Sunday
