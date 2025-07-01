@@ -128,3 +128,11 @@
   - Understanding the structure of the category data and how it flows through the component.
   - Rendering dynamic content using React’s `map()` method.
 - Received guidance from mentor on best practices for **component-based rendering** and **UI consistency**.
+
+#### ✅ Day 25 – June 25, 2025
+- Started learning **Node.js** fundamentals.
+- Covered topics including:
+  - **Modules** in Node.js and their usage
+  - **File handling** operations for reading and writing files
+- Applied learning to the **Bitsy CMS** project:
+  - Fetched API data for the **category list** in the Category Management component to display categories dynamically.
