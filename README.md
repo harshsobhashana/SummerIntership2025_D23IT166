@@ -155,3 +155,12 @@
 
 #### ✅ Day 27 – June 28, 2025 and ✅ Day 28 – June 29, 2025
 - have holiday on due to Saturday and Sunday
+
+#### ✅ Day 29 – June 30, 2025
+- Worked on **My Profile module**:
+  - Created the frontend structure and implemented its design.
+- Developed the **Change Password module**:
+  - Designed and built the complete frontend for the feature.
+- Made text corrections on **listing pages** for:
+  - **Seller Review** module
+  - **Message Report** module
