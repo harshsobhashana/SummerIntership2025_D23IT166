@@ -164,3 +164,10 @@
 - Made text corrections on **listing pages** for:
   - **Seller Review** module
   - **Message Report** module
+
+#### ✅ Day 30 – July 1, 2025
+- Added **API integration** for:
+  - **My Profile module** to fetch and update user details
+  - **Change Password module** to enable secure password updates
+- Made required changes and enhancements in the **Category Management module**.
+- Pushed all recent changes to the **GitHub repository** and created a **pull request** for mentor review and merging.
