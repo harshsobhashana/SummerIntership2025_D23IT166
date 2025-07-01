@@ -144,3 +144,11 @@
   - **View** functionality to display data details
 - Fetched and displayed images for the **Admit Management** module.
 - Uploaded and pushed all updated code to the **GitHub repository** for version control and team access.
+
+#### ✅ Day 26 – June 27, 2025
+- Worked on the **Logout module** in the Bitsy CMS project.
+- Implemented a **logout confirmation popup** with:
+  - Message: “Are you sure you want to logout?”
+  - **Cancel** button to dismiss the popup
+  - **Logout** button to proceed with user logout
+- Added an **overlay effect** to dim the background until the user takes action on the popup.
