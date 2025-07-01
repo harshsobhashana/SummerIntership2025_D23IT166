@@ -136,3 +136,11 @@
   - **File handling** operations for reading and writing files
 - Applied learning to the **Bitsy CMS** project:
   - Fetched API data for the **category list** in the Category Management component to display categories dynamically.
+
+#### ✅ Day 25 – June 26, 2025
+- Worked on the **Bitsy CMS** live project.
+- Fetched APIs for:
+  - **Edit** functionality to update existing data
+  - **View** functionality to display data details
+- Fetched and displayed images for the **Admit Management** module.
+- Uploaded and pushed all updated code to the **GitHub repository** for version control and team access.
