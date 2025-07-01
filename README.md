@@ -129,7 +129,7 @@
   - Rendering dynamic content using React’s `map()` method.
 - Received guidance from mentor on best practices for **component-based rendering** and **UI consistency**.
 
-#### ✅ Day 25 – June 25, 2025
+#### ✅ Day 24 – June 25, 2025
 - Started learning **Node.js** fundamentals.
 - Covered topics including:
   - **Modules** in Node.js and their usage
