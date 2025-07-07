@@ -171,3 +171,36 @@
   - **Change Password module** to enable secure password updates
 - Made required changes and enhancements in the **Category Management module**.
 - Pushed all recent changes to the **GitHub repository** and created a **pull request** for mentor review and merging.
+
+### Week 5
+
+#### ✅ Day 31 – July 2, 2025
+- Studied **Node.js modules** and their purpose in code organization.
+- Learned about **file handling** in Node.js for reading and writing files.
+- Understood **synchronous** vs **asynchronous** operations.
+- Explored **blocking** and **non-blocking** methods in Node.js.
+- Created an **HTTP server** using Node.js.
+- Learned **URL handling** in HTTP servers.
+- Studied different **HTTP methods**: GET, POST, PUT, DELETE.
+- Understood the concepts and implementation of **REST APIs**.
+
+#### ✅ Day 32 – July 3, 2025
+- Studied **HTTP headers** and their role in requests and responses.
+- Explored the **OS module** in Node.js for system-related operations.
+- Learned about the **Path module** for handling file and directory paths.
+- Understood **Events** and the **EventEmitter** class in Node.js.
+- Studied **HTTP status codes** and their meanings in web communication.
+- Learned about the **Model-View-Controller (MVC)** architectural pattern.
+- Explored the **V8 Engine** and its role in running JavaScript in Node.js.
+
+#### ✅ Day 33 – July 4, 2025
+- Studied the **Express.js** framework and its routing features.
+- Understood the concept and use of **middleware** in Express.
+- Learned about **seeders** for populating initial data in databases.
+- Studied **migrations** for managing database schemas.
+- Cloned the **ride-reach-api** repository and completed its setup.
+
+#### ✅ Day 34 – July 7, 2025
+- Reviewed the **file structure** of the ride-reach-api project to understand its architecture.
+- Viewed the **Figma design** to plan and create necessary APIs for the website.
+
